@@ -1,0 +1,26 @@
+{
+    "cards":[
+       {
+          "id":"100",
+          "content":"Remote from GIT",
+          "type":"someType",
+          "isFavorite":"false",
+	  "isDone":"false",
+	  "isStarted":"false",
+	  "imageUrl":"someUrl",
+	  "isActive":"false",
+	  "isQuick" : "false"
+       },   
+       {
+          "id":"101",
+          "content":"Remote from GIT 2",
+          "type":"someType",
+          "isFavorite":"false",
+	  "isDone":"false",
+	  "isStarted":"false",
+	  "imageUrl":"someUrl",
+	  "isActive":"false",
+	  "isQuick" : "false"
+       }
+    ]
+ }
