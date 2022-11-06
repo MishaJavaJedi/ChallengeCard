@@ -14,7 +14,7 @@
        },   
        {
           "id":"101",
-	   title":"someTitle",
+	  "title":"someTitle",
           "content":"Remote from GIT 2",
           "type":"someType",
           "isFavorite":"false",
