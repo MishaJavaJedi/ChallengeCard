@@ -2,6 +2,7 @@
     "cards":[
        {
           "id":"100",
+	  "title":"someTitle",
           "content":"Remote from GIT",
           "type":"someType",
           "isFavorite":"false",
@@ -13,6 +14,7 @@
        },   
        {
           "id":"101",
+	   title":"someTitle",
           "content":"Remote from GIT 2",
           "type":"someType",
           "isFavorite":"false",
