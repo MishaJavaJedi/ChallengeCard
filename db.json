@@ -20,7 +20,7 @@
           "isFavorite":"false",
 	  "isDone":"false",
 	  "isStarted":"false",
-	  "imageUrl":"https://source.unsplash.com/random/?Lo-fi/",
+	  "imageUrl":"https://source.unsplash.com/random/?Health/",
 	  "isActive":"false",
 	  "isQuick" : "false"
        },
@@ -32,7 +32,7 @@
           "isFavorite":"false",
 	  "isDone":"false",
 	  "isStarted":"false",
-	  "imageUrl":"https://source.unsplash.com/random/?Lo-fi/",
+	  "imageUrl":"https://source.unsplash.com/random/?Nature/",
 	  "isActive":"false",
 	  "isQuick" : "false"
        },
@@ -44,7 +44,7 @@
           "isFavorite":"false",
 	  "isDone":"false",
 	  "isStarted":"false",
-	  "imageUrl":"https://source.unsplash.com/random/?Lo-fi/",
+	  "imageUrl":"https://source.unsplash.com/random/?Zen/",
 	  "isActive":"false",
 	  "isQuick" : "false"
        }
