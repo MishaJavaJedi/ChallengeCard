@@ -8,7 +8,7 @@
           "isFavorite":"false",
 	  "isDone":"false",
 	  "isStarted":"false",
-	  "imageUrl":"someUrl",
+	  "imageUrl":"https://source.unsplash.com/random/?Lo-fi/",
 	  "isActive":"false",
 	  "isQuick" : "false"
        },   
@@ -20,7 +20,7 @@
           "isFavorite":"false",
 	  "isDone":"false",
 	  "isStarted":"false",
-	  "imageUrl":"someUrl",
+	  "imageUrl":"https://source.unsplash.com/random/?Lo-fi/",
 	  "isActive":"false",
 	  "isQuick" : "false"
        },
@@ -32,7 +32,7 @@
           "isFavorite":"false",
 	  "isDone":"false",
 	  "isStarted":"false",
-	  "imageUrl":"someUrl",
+	  "imageUrl":"https://source.unsplash.com/random/?Lo-fi/",
 	  "isActive":"false",
 	  "isQuick" : "false"
        },
@@ -44,7 +44,7 @@
           "isFavorite":"false",
 	  "isDone":"false",
 	  "isStarted":"false",
-	  "imageUrl":"someUrl",
+	  "imageUrl":"https://source.unsplash.com/random/?Lo-fi/",
 	  "isActive":"false",
 	  "isQuick" : "false"
        }
